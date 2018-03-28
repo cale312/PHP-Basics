@@ -4,7 +4,6 @@
  </head>
  <body>
  <?php
-    // $roll = rand(1, 6);
     do {
         $roll = rand(1, 6);
         echo "<p> you rolled a {$roll} </p>";
